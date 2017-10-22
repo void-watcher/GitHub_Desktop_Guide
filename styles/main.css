@@ -1,3 +1,9 @@
+body {
+  background: gray;
+  margin: 0;
+  padding: 1%;
+}
+
 .intro {
   color: white;
   padding: 5px;
