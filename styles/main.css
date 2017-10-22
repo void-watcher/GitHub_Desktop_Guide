@@ -1,7 +1,17 @@
 body {
-  background: #666;
+  background: #333;
   margin: 0;
   padding: 1%;
+}
+
+nav {
+  background: white;
+  margin: 0;
+  padding: 5%;
+}
+
+nav ul li{
+  display: inline-block;
 }
 
 .intro {
