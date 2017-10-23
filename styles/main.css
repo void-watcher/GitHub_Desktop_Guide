@@ -30,6 +30,10 @@ nav ul li a.selected {
   font-size: 20px;
 }
 
+a {
+  color: white;
+}
+
 .normal {
   color: white;
   background: #333;
